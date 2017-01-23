@@ -6,6 +6,8 @@
   "author": "Travis Williams",
   "license": "Apache-2.0",
   "dependencies": {
+    "alpr": "^0.1.5",
+    "co": "^4.6.0",
     "lodash": "^4.17.4",
     "node-lambda": "^0.8.11"
   }
